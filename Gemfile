@@ -3,6 +3,8 @@ source 'https://rubygems.org'
 gem 'rails', '3.2.12'
 gem 'jquery-rails'
 
+gem 'rails_12factor', group: :production
+
 
 # Bundle edge Rails instead:
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
